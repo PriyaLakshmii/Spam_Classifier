@@ -10,6 +10,7 @@ This project contains the following files:
 
 * spam_classifier.ipynb: Jupyter Notebook containing the code for training and testing the spam classifier model.
 * spam.tsv: The dataset used for training and testing the model.
+* SVC_SPAM_CLASSIFIER.pkl: Trained SVC model 
 
 To run the project, open the spam_classifier.ipynb file in Jupyter Notebook.
 
