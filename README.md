@@ -1,8 +1,8 @@
 # Spam Classifier
-A machine learning based project to classify messages as spam or not spam.
+A machine learning based project to classify Emails as spam or not spam.
 
 ## Project Description:
-This project uses a machine learning algorithm to classify messages as spam or ham(non spam).The model is trained on a dataset with labeled examples of spam and ham messages and uses natural language processing and machine learning techniques to to make predictions on new, incoming messages.
+This project uses a machine learning algorithm to classify Emails as spam or ham(non spam).The model is trained on a dataset with labeled examples of spam and ham emails and uses natural language processing and machine learning techniques to to make predictions on new, incoming messages.
 
 ## Usage:
 
